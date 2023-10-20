@@ -1,0 +1,269 @@
+
+[
+    {
+        "id": 0,
+        "titulo": "X-Misto",
+        "categoria": "sanduiche",
+        "descricao": "Pão, Ovo, Queijo, Presunto e Salada",
+        "imagem": "../images/lanche5.jpg",
+        "preco": "5.00"
+    },
+    {
+        "id": 1,
+        "titulo": "X-Burguer",
+        "categoria": "sanduiche",
+        "descricao": "Hambúrguer, Queijo, Presunto e Salada",
+        "imagem": "../images/lanche2.jpg",
+        "preco": "8.00"
+    },
+    {
+        "id": 2,
+        "titulo": "X-Americano",
+        "categoria": "sanduiche",
+        "descricao": "Hambúrguer, Ovo, Queijo, Presunto e Salada",
+        "imagem": "../images/lanche.jpg",
+        "preco": "7.00"
+    },
+    {
+        "id": 3,
+        "titulo": "X-Dog",
+        "categoria": "sanduiche",
+        "descricao": "Salsicha, Queijo, Presunto e Salada",
+        "imagem": "../images/lanche3.jpg",
+        "preco": "7.00"
+    },
+    {
+        "id": 4,
+        "titulo": "X-Salada",
+        "categoria": "sanduiche",
+        "descricao": "Hambúrguer, Queijo, Presunto e Salada",
+        "imagem": "../images/lanche4.jpg",
+        "preco": "10.00"
+    },
+    {
+        "id": 5,
+        "titulo": "X-Frango",
+        "categoria": "sanduiche",
+        "descricao": "Frango, Queijo, Presunto e Salada",
+        "imagem": "../images/lanche6.jpg",
+        "preco": "11.00"
+    },
+    {
+        "id": 6,
+        "titulo": "X-Saladog",
+        "categoria": "sanduiche",
+        "descricao": "Hambúrguer, Salsicha, Queijo, Presunto, e Salada",
+        "imagem": "../images/lanche7.jpg",
+        "preco": "12.00"
+    },
+    {
+        "id": 7,
+        "titulo": "X-Egg",
+        "categoria": "sanduiche",
+        "descricao": "Hamburguer, Ovo, Queijo, Presunto e Salada",
+        "imagem": "../images/lanche8.jpg",
+        "preco": "13.00"
+    },
+    {
+        "id": 8,
+        "titulo": "X-Framburguer",
+        "categoria": "sanduiche",
+        "descricao": "Frango, Hamburguer, Queijo, Presunto e Salada",
+        "imagem": "../images/lanche8.jpg",
+        "preco": "13.00"
+    },
+    {
+        "id": 9,
+        "titulo": "X-Bacon",
+        "categoria": "sanduiche",
+        "descricao": "Hambúrguer, Bacon, Queijo, Presunto e Salada",
+        "imagem": "../images/lanche8.jpg",
+        "preco": "13.00"
+    },
+    {
+        "id": 10,
+        "titulo": "X-Bacon Egg",
+        "categoria": "sanduiche",
+        "descricao": "Hambúrguer, Bacon, Ovo, Queijo, Presunto e Salada",
+        "imagem": "../images/lanche8.jpg",
+        "preco": "14.00"
+    },
+    {
+        "id": 11,
+        "titulo": "X-Calabresa",
+        "categoria": "sanduiche",
+        "descricao": "Hambúrguer, Calabresa, Queijo, Presunto e Salada",
+        "imagem": "../images/lanche8.jpg",
+        "preco": "14.00"
+    },
+    {
+        "id": 12,
+        "titulo": "X-Calabresa Egg",
+        "categoria": "sanduiche",
+        "descricao": "Hambúrguer, Calabresa, Ovo, Queijo, Presunto e Salada",
+        "imagem": "../images/lanche8.jpg",
+        "preco": "14.00"
+    },
+    {
+        "id": 13,
+        "titulo": "X-Eggdog",
+        "categoria": "sanduiche",
+        "descricao": "Hambúrguer, Salsicha, Ovo, Queijo, Presunto e Salada",
+        "imagem": "../images/lanche8.jpg",
+        "preco": "14.00"
+    },
+    {
+        "id": 14,
+        "titulo": "X-Estudantil",
+        "categoria": "sanduiche",
+        "descricao": "Hambúrguer, Calabresa, Bacon, Queijo, Presunto e Salada",
+        "imagem": "../images/lanche8.jpg",
+        "preco": "15.00"
+    },
+    {
+        "id": 15,
+        "titulo": "X-Frambacon",
+        "categoria": "sanduiche",
+        "descricao": "Hambúrguer, Frango, Bacon, Queijo, Presunto e Salada",
+        "imagem": "../images/lanche8.jpg",
+        "preco": "15.00"
+    },
+    {
+        "id": 16,
+        "titulo": "X-Frandog",
+        "categoria": "sanduiche",
+        "descricao": "Hambúrguer, Frango, Salsicha, Queijo, Presunto e Salada",
+        "imagem": "../images/lanche8.jpg",
+        "preco": "15.00"
+    },
+    {
+        "id": 17,
+        "titulo": "X-Frambresa",
+        "categoria": "sanduiche",
+        "descricao": "Hambúrguer, Frango, Calabresa, Queijo, Presunto e Salada",
+        "imagem": "../images/lanche8.jpg",
+        "preco": "15.00"
+    },
+    {
+        "id": 18,
+        "titulo": "X-Bagunça",
+        "categoria": "sanduiche",
+        "descricao": "Hambúrguer, Calabresa, Salsicha, Ovo, Queijo, Presunto e Salada",
+        "imagem": "../images/lanche8.jpg",
+        "preco": "16.00"
+    },
+    {
+        "id": 19,
+        "titulo": "X-Turbo",
+        "categoria": "sanduiche",
+        "descricao": "Hambúrguer, Calabresa, Salsicha, Ovo, Bacon, Frango, Queijo, Presunto e Salada",
+        "imagem": "../images/lanche8.jpg",
+        "preco": "19.00"
+    },
+    {
+        "id": 20,
+        "titulo": "V8",
+        "categoria": "sanduiche",
+        "descricao": "2Hambúrguer, 2Salsicha, 2Ovo, Calabresa, Bacon, Frango, Queijo, Presunto e Salada",
+        "imagem": "../images/lanche8.jpg",
+        "preco": "25.00"
+    },
+    {
+        "id": 21,
+        "titulo": "Audi",
+        "categoria": "hamburguer",
+        "descricao": "Hambúrguer, Queijo, Molho Barbecue e Salada",
+        "imagem": "../images/lanche8.jpg",
+        "preco": "15.00"
+    },
+    {
+        "id": 22,
+        "titulo": "Maserati",
+        "categoria": "hamburguer",
+        "descricao": "Hambúrguer, Bacon, Queijo, Molho Barbecue e Salada",
+        "imagem": "../images/lanche8.jpg",
+        "preco": "18.00"
+    },
+    {
+        "id": 23,
+        "titulo": "Mustang",
+        "categoria": "hamburguer",
+        "descricao": "Hambúrguer, Bacon, Catupiry, Queijo, Molho Barbecue e Salada",
+        "imagem": "../images/lanche8.jpg",
+        "preco": "19.00"
+    },
+    {
+        "id": 24,
+        "titulo": "Bmw",
+        "categoria": "hamburguer",
+        "descricao": "Hambúrguer, Bacon, Cebola Caramelizada, Queijo, Molho Barbecue e Salada",
+        "imagem": "../images/lanche8.jpg",
+        "preco": "19.00"
+    },
+    {
+        "id": 25,
+        "titulo": "Mercedes-Bens",
+        "categoria": "hamburguer",
+        "descricao": "Hambúrguer, Frango, Ovo, Queijo, Molho Barbecue e Salada",
+        "imagem": "../images/lanche8.jpg",
+        "preco": "20.00"
+    },
+    {
+        "id": 26,
+        "titulo": "Lamborghini",
+        "categoria": "hamburguer",
+        "descricao": "Hambúrguer, Frango, Bacon, Queijo, Molho Barbecue e Salada",
+        "imagem": "../images/lanche8.jpg",
+        "preco": "22.00"
+    },
+    {
+        "id": 27,
+        "titulo": "Ferrari",
+        "categoria": "hamburguer",
+        "descricao": "2Hambúrguer, 2Frango, 2Bacon, 2Queijo, Molho Barbecue e Salada",
+        "imagem": "../images/lanche8.jpg",
+        "preco": "28.00"
+    },
+    {
+        "id": 28,
+        "titulo": "Refrigerante Lata",
+        "categoria": "bebidas",
+        "descricao": "Refrigerante Lata",
+        "imagem": "../images/lanche8.jpg",
+        "preco": "6.00"
+    },
+    {
+        "id": 29,
+        "titulo": "Refrigerante 600ml",
+        "categoria": "bebidas",
+        "descricao": "Refrigerante 600ml",
+        "imagem": "../images/lanche8.jpg",
+        "preco": "7.00"
+    },
+    {
+        "id": 30,
+        "titulo": "Refrigerante 1litro",
+        "categoria": "bebidas",
+        "descricao": "Refrigerante 1litro",
+        "imagem": "../images/lanche8.jpg",
+        "preco": "9.00"
+    },
+    {
+        "id": 31,
+        "titulo": "Batata Frita P",
+        "categoria": "batata",
+        "descricao": "Batata Frita Pequena",
+        "imagem": "../images/lanche8.jpg",
+        "preco": "14.00"
+    },
+    {
+        "id": 32,
+        "titulo": "Batata Frita G",
+        "categoria": "batata",
+        "descricao": "Batata Frita Grande",
+        "imagem": "../images/lanche8.jpg",
+        "preco": "18.00"
+    }
+    
+    
+]
